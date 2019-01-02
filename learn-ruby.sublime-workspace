@@ -1,0 +1,401 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"put",
+				"put_to_bed"
+			],
+			[
+				"stuff",
+				"stuff_in_intenstine"
+			],
+			[
+				"n",
+				"numberShowing"
+			],
+			[
+				"num",
+				"num_string"
+			],
+			[
+				"en",
+				"english_number"
+			],
+			[
+				"fa",
+				"favorite_number"
+			],
+			[
+				"in",
+				"introduction"
+			],
+			[
+				"appe",
+				"appendChild\t<T: Node>(newChild: T) => T"
+			],
+			[
+				"displ",
+				"displayArea\tHTMLElement | null"
+			],
+			[
+				"selec",
+				"querySelector\t(selector: \"a\") => (HTMLAnchorElement | null)"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"grid-tem",
+				"grid-template-columns\tproperty"
+			],
+			[
+				"first",
+				"firstVowel\t(arr: any) => any"
+			],
+			[
+				"fir",
+				"firstQU\t(arr: any) => any"
+			],
+			[
+				"lower",
+				"lowerStrArray\tany"
+			],
+			[
+				"low",
+				"lowerStrArray\tany"
+			],
+			[
+				"lo",
+				"lowerStrArray\tany"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "00_hello/hello.rb",
+			"settings":
+			{
+				"buffer_size": 22,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"term",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"view",
+				"View In Browser"
+			],
+			[
+				"web",
+				"Web Inspector"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"trm",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termina",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"terma",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"termin",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"ter",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"Install P",
+				"Package Control: Install Package"
+			],
+			[
+				"Install",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 148.0,
+		"history":
+		[
+			"(24 + 21) % 26",
+			"(-5 + 26)",
+			"(24 + -5) % 26",
+			"-4 % 26",
+			"1-5",
+			"(26+1) % 26",
+			"2-5",
+			"(2 + -5) % 26",
+			"(10 + -7) & 26",
+			"(10 + 7) % 26",
+			"(22 + 7) % 26",
+			"'palindromes/palindromes.js'",
+			"palindromes.js",
+			"cd palindromes",
+			"newStr",
+			"jasmine calculator.spec.js",
+			"jasmine calculator.js",
+			"cd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jennifershields/the_odin_project/learn_ruby"
+	],
+	"file_history":
+	[
+		"/Users/jennifershields/the_odin_project/ruby-intro/three_five.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/dragon.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/die.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/english_number.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/grandma.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/99_bottles.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/toc.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/angry_boss.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/name.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/fave_num.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/hours.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/student.rb",
+		"/Users/jennifershields/the_odin_project/ruby-intro/my_program.rb",
+		"/Users/jennifershields/the_odin_project/calculator/style.css",
+		"/Users/jennifershields/the_odin_project/calculator/index.html",
+		"/Users/jennifershields/the_odin_project/calculator/calc.js",
+		"/Users/jennifershields/Exercism/javascript/two-fer/two-fer.js",
+		"/Users/jennifershields/exercism/javascript/two-fer/two-fer.spec.js",
+		"/Users/jennifershields/the_odin_project/odin-etch/etch.html",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/jennifershields/Exercism/javascript/leap/README.md",
+		"/Users/jennifershields/Exercism/javascript/leap/leap.js",
+		"/Users/jennifershields/Exercism/javascript/leap/leap.spec.js",
+		"/Users/jennifershields/exercism/javascript/hello-world/hello-world.js",
+		"/Users/jennifershields/exercism/javascript/hello-world/README.md",
+		"/Users/jennifershields/exercism/javascript/hello-world/hello-world.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/pig_latin/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/pig_latin/pigLatin.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/pig_latin/pigLatin.js",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/User/JSC.sublime-build",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/fibonacci/fibonacci.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/fibonacci/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/fibonacci/fibonacci.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/caesar/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/caesar/caesar.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/caesar/caesar.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/snakeCase/snakeCase.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/snakeCase/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/snakeCase/snakeCase.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/palindromes.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/palindromes.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/palindromes.html",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/palindromes/README.md",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/calculator/calculator.spec.js",
+		"/Users/jennifershields/the_odin_project/javascript-exercises/calculator/calculator.js",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/TerminalView/README.md",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/jennifershields/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/jennifershields/scratch.js"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "00_hello/hello.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 22,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 252.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JSC.sublime-build",
+	"project": "learn-ruby.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
